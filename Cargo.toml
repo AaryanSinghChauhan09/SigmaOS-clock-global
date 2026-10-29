@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos-clock-global"
+version = "0.1.0"
+edition = "2021"
+authors = ["SigmaOS Project"]
+description = "SigmaOS Global World Clock and Time Zone calculation engine"
+license = "GPL-3.0"
+
+[dependencies]
