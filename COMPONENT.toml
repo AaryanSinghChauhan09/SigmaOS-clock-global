@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-clock-global"
 tier = 4
-description = "World clock, time zone synchronizer, and multi-region time viewer inspired by Elsewhen"
+description = "Global timezone and world clock indicator applet"
 contracts = ['global-clock', 'timezone-converter', 'world-clock-widget']
 upstream_inspirations = ['https://github.com/omacom/elsewhen']
